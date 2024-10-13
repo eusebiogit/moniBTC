@@ -1,0 +1,11 @@
+nbproject
+sessions
+node_modules
+cache
+*~
+tmp
+*.svg
+*.env
+package-lock.json
+.env
+tx_counts/*
